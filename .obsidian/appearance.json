@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "ITS Alternative Theme",
+    "Pathfinder2E-TTRPG-Statblock-v1.3",
+    "PF2e-Actions-Font"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 20
+}

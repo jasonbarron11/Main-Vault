@@ -1,0 +1,544 @@
+{
+  "main": {
+    "id": "19aa3c0ff94415f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "568f1ec52c51c3bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94703384b594437e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 3,
+              "stack": [
+                {
+                  "title": "New Player Combat Guide",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/New Player Combat Guide.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "17. Kobold Warren",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/17. Kobold Warren.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":2}"
+                },
+                {
+                  "title": "11. Kobolds and Traps",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/11. Kobolds and Traps.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Map Floor 2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/Map Floor 2.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":3.4615384615384612}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Otari/Menace Under Otari/Map Floor 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b5f73324a5dbc2e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Otari/Menace Under Otari/Map Floor 1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0b368ee70a757e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "4. Wrin's Wonders",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/4. Wrin's Wonders.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "5. Gallentine Deliveries",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/5. Gallentine Deliveries.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "6. Blades for Glades",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/6. Blades for Glades.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "5. Gallentine Deliveries",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/5. Gallentine Deliveries.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "4. Wrin's Wonders",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/4. Wrin's Wonders.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. The Giant's Wheel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/1. The Giant's Wheel.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "2. Loading Flume",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/2. Loading Flume.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. The Giant's Wheel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/1. The Giant's Wheel.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Otari",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Otari.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":21.042857142857144}"
+                },
+                {
+                  "title": "1. The Giant's Wheel",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Township of Otari/1. The Giant's Wheel.md\",\"mode\":\"source\",\"source\":true}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Otari/Menace Under Otari/15. Xulgath Cave.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "11bb96eb85adb3ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Jaybird.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5b4e99939f645fff",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "1. Hungry Rats!",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Otari/Otari.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e54984eac0aa8716",
+    "type": "split",
+    "children": [
+      {
+        "id": "da3f48f0b725ea66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed2cf9edae2d65cc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df1a2a83b6ef0fb7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d695d553dfcc957",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "e14bc4af34690792",
+    "type": "split",
+    "children": [
+      {
+        "id": "658bda7afd9d78f1",
+        "type": "tabs",
+        "dimension": 52.07142857142857,
+        "children": [
+          {
+            "id": "62c370dd78935c2a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Otari/Otari.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8aa417fbae9e67be",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "World/Otari/Otari.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "324413b5dbbf618d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4079ae0123d4b761",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "World/Otari/Otari.md"
+              }
+            }
+          },
+          {
+            "id": "224e613902c4fc7f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a382bb338a5e99c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2be775217d26060",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "53d7f2943a2a724d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "5055b5f860336054",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6de83629d6c53791",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4d5f001d29824e7f",
+        "type": "tabs",
+        "dimension": 47.92857142857142,
+        "children": [
+          {
+            "id": "406a23283cb239e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 408.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-custom-frames:Open jaybird": false,
+      "dbfolder:Create a new database table": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "5b4e99939f645fff",
+  "lastOpenFiles": [
+    "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "z_Templates/Markdown Templates/Custom iFrame.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "World/Otari/Menace Under Otari/Map Floor 1.md",
+    "World/Otari/Menace Under Otari/11. Kobolds and Traps.md",
+    "Party/Jaybird.md",
+    "World/Otari/Menace Under Otari/17. Kobold Warren.md",
+    "World/Otari/Menace Under Otari/New Player Combat Guide.md",
+    "World/Otari/Menace Under Otari/15. Xulgath Cave.md"
+  ]
+}

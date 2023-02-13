@@ -1,0 +1,31 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbSearch",
+      "SiQuest",
+      "FabDochub",
+      "FabElementor",
+      "FasNote-sticky"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Core Mechanics": "FasScrewdriver-wrench",
+  "World": "FasEarth-americas",
+  "Party": "FasUser-group",
+  "z_Attachments": "FasNote-sticky",
+  "GM Screen": "FabElementor",
+  "z_Templates": "FabDochub",
+  "World/Otari/Abomination Vault/Ch 1.  A Light in the Fog": "IbSearch"
+}
