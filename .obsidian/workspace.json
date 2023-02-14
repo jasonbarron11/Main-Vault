@@ -207,9 +207,30 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "bbf8a4318551aa24",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -312,7 +333,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+                "file": "World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -338,7 +359,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+                "file": "World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -379,7 +400,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md"
+                "file": "World/Otari/Abomination Vault/Ch 1.  A Light in the Fog/Untitled.md"
               }
             }
           },
@@ -534,10 +555,10 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "5b4e99939f645fff",
+  "active": "bbf8a4318551aa24",
   "lastOpenFiles": [
-    "World/Otari/Otari.md",
     "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
+    "World/Otari/Otari.md",
     "z_Templates/Markdown Templates/Custom iFrame.md",
     "Untitled.md",
     "Untitled 1.md",
