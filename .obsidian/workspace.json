@@ -186,6 +186,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Otari",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Otari.md\",\"mode\":\"preview\",\"source\":true}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "1. Hungry Rats!",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"World/Otari/Menace Under Otari/1. Hungry Rats!.md\",\"mode\":\"preview\",\"source\":true}}",
@@ -196,7 +202,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Otari/Otari.md",
+                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
                 "mode": "preview",
                 "source": true
               }
@@ -306,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Otari/Otari.md",
+                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Otari/Otari.md",
+                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -373,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Otari/Otari.md"
+                "file": "World/Otari/Menace Under Otari/1. Hungry Rats!.md"
               }
             }
           },
@@ -530,6 +536,7 @@
   },
   "active": "5b4e99939f645fff",
   "lastOpenFiles": [
+    "World/Otari/Otari.md",
     "World/Otari/Menace Under Otari/1. Hungry Rats!.md",
     "z_Templates/Markdown Templates/Custom iFrame.md",
     "Untitled.md",
@@ -538,7 +545,6 @@
     "World/Otari/Menace Under Otari/11. Kobolds and Traps.md",
     "Party/Jaybird.md",
     "World/Otari/Menace Under Otari/17. Kobold Warren.md",
-    "World/Otari/Menace Under Otari/New Player Combat Guide.md",
-    "World/Otari/Menace Under Otari/15. Xulgath Cave.md"
+    "World/Otari/Menace Under Otari/New Player Combat Guide.md"
   ]
 }
