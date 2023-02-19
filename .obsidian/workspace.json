@@ -449,10 +449,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-custom-frames:Open jaybird": false
+      "obsidian-custom-frames:Open jaybird": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "active": "09eea170fb6852f4",
