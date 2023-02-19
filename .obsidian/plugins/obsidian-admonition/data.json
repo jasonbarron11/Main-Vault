@@ -3,7 +3,7 @@
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "9.2.1",
-  "autoCollapse": false,
+  "autoCollapse": true,
   "defaultCollapseType": "open",
   "injectColor": true,
   "parseTitles": true,
@@ -12,13 +12,13 @@
   "open": {
     "admonitions": true,
     "icons": true,
-    "other": true,
+    "other": false,
     "advanced": false
   },
   "icons": [],
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
-  "useSnippet": false,
+  "useSnippet": true,
   "snippetPath": "custom-admonitions.20ada0"
 }

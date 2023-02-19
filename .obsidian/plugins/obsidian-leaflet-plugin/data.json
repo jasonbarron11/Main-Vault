@@ -1,8 +1,241 @@
 {
   "mapMarkers": [
     {
+      "id": "leaflet-map",
+      "lastAccessed": 1676174267878,
+      "markers": [
+        {
+          "id": "ID_7abb0a7a5b5a",
+          "type": "Room",
+          "loc": [
+            -2.07403564453125,
+            0.978515625
+          ],
+          "link": "1. Hungry Rats!",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "map floor 1",
+      "lastAccessed": 1676311164695,
+      "markers": [
+        {
+          "id": "ID_99abea9bb96a",
+          "type": "Room",
+          "loc": [
+            -2.0546875,
+            0.947265625
+          ],
+          "link": "1. Hungry Rats!",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.49641760491299897,
+            0.8289992119779354
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ba9189b7859",
+          "type": "Room",
+          "loc": [
+            -2.14630126953125,
+            1.548828125
+          ],
+          "link": "2. Drop Into Darkness",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19e848fbba7b",
+          "type": "Room",
+          "loc": [
+            -1.52911376953125,
+            1.544921875
+          ],
+          "link": "3. The Spider's Web",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_488a19a82a89",
+          "type": "Room",
+          "loc": [
+            -0.98028564453125,
+            1.16015625
+          ],
+          "link": "4. The Barricade",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aaab483888b8",
+          "type": "Room",
+          "loc": [
+            -0.53497314453125,
+            1.47265625
+          ],
+          "link": "5. Forgotten Crypt",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2ae97be919fb",
+          "type": "Room",
+          "loc": [
+            -1.37872314453125,
+            0.818359375
+          ],
+          "link": "6. Forgotten Shrine",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7b3bc97b6be8",
+          "type": "Room",
+          "loc": [
+            -1.79669189453125,
+            0.43359375
+          ],
+          "link": "7. Abandoned Storeroom",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_795aeb58085a",
+          "type": "Room",
+          "loc": [
+            -1.59375,
+            0.197265625
+          ],
+          "link": "8. Trapped Hallway",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.10337768679631525,
+            0.6430260047281324
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da59ea893b29",
+          "type": "Room",
+          "loc": [
+            -1.15020751953125,
+            0.19140625
+          ],
+          "link": "9. Gold Puzzle",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_692a49e8fb49",
+          "type": "Room",
+          "loc": [
+            -0.830078125,
+            0.40625
+          ],
+          "link": "10. Abadar's Vault",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2128966223132037,
+            0.33490937746256894
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a89abc94a28",
+          "type": "Room",
+          "loc": [
+            -0.57794189453125,
+            0.20703125
+          ],
+          "link": "11. Kobolds and Traps",
+          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "World/Otari/Menace Under Otari/Map Floor 1.md"
+      ]
+    },
+    {
       "id": "map floor 2",
-      "lastAccessed": 1676174019403,
+      "lastAccessed": 1676399881951,
       "markers": [
         {
           "id": "ID_d84baafabb19",
@@ -120,34 +353,8 @@
       ]
     },
     {
-      "id": "leaflet-map",
-      "lastAccessed": 1676174267878,
-      "markers": [
-        {
-          "id": "ID_7abb0a7a5b5a",
-          "type": "Room",
-          "loc": [
-            -2.07403564453125,
-            0.978515625
-          ],
-          "link": "1. Hungry Rats!",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": []
-    },
-    {
       "id": "Map of Otari",
-      "lastAccessed": 1676228632262,
+      "lastAccessed": 1676431460037,
       "markers": [
         {
           "id": "ID_d9cb583bd92b",
@@ -408,213 +615,6 @@
       "shapes": [],
       "files": [
         "World/Otari/Otari.md"
-      ]
-    },
-    {
-      "id": "map floor 1",
-      "lastAccessed": 1676311164695,
-      "markers": [
-        {
-          "id": "ID_99abea9bb96a",
-          "type": "Room",
-          "loc": [
-            -2.0546875,
-            0.947265625
-          ],
-          "link": "1. Hungry Rats!",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.49641760491299897,
-            0.8289992119779354
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_3ba9189b7859",
-          "type": "Room",
-          "loc": [
-            -2.14630126953125,
-            1.548828125
-          ],
-          "link": "2. Drop Into Darkness",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_19e848fbba7b",
-          "type": "Room",
-          "loc": [
-            -1.52911376953125,
-            1.544921875
-          ],
-          "link": "3. The Spider's Web",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_488a19a82a89",
-          "type": "Room",
-          "loc": [
-            -0.98028564453125,
-            1.16015625
-          ],
-          "link": "4. The Barricade",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_aaab483888b8",
-          "type": "Room",
-          "loc": [
-            -0.53497314453125,
-            1.47265625
-          ],
-          "link": "5. Forgotten Crypt",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_2ae97be919fb",
-          "type": "Room",
-          "loc": [
-            -1.37872314453125,
-            0.818359375
-          ],
-          "link": "6. Forgotten Shrine",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7b3bc97b6be8",
-          "type": "Room",
-          "loc": [
-            -1.79669189453125,
-            0.43359375
-          ],
-          "link": "7. Abandoned Storeroom",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_795aeb58085a",
-          "type": "Room",
-          "loc": [
-            -1.59375,
-            0.197265625
-          ],
-          "link": "8. Trapped Hallway",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.10337768679631525,
-            0.6430260047281324
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_da59ea893b29",
-          "type": "Room",
-          "loc": [
-            -1.15020751953125,
-            0.19140625
-          ],
-          "link": "9. Gold Puzzle",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_692a49e8fb49",
-          "type": "Room",
-          "loc": [
-            -0.830078125,
-            0.40625
-          ],
-          "link": "10. Abadar's Vault",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": [
-            0.2128966223132037,
-            0.33490937746256894
-          ],
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_6a89abc94a28",
-          "type": "Room",
-          "loc": [
-            -0.57794189453125,
-            0.20703125
-          ],
-          "link": "11. Kobolds and Traps",
-          "layer": "%5B%5BMap%20Floor%201.PNG%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "World/Otari/Menace Under Otari/Map Floor 1.md"
       ]
     }
   ],

@@ -279,5 +279,5 @@
   "additiveTemp": false,
   "logging": false,
   "logFolder": "/",
-  "integrateSRD": false
+  "integrateSRD": true
 }

@@ -1,2 +1,2 @@
-> [!warning]
+> [!success]+ GM Direction 
 > Text
